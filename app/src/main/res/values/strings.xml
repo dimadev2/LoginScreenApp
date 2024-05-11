@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login Screen Application</string>
+    <string name="icon_description">Log in</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_btn_text">Login</string>
+</resources>
